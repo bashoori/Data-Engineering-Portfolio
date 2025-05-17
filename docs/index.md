@@ -15,7 +15,7 @@ I'm passionate about solving large-scale data problems through clean architectur
 ## 🚀 Projects
 
 ### 🛠️ Airflow AWS Modernization  
-[🔗 View Project](https://github.com/bashoori/Data-Engineering-Portfolio/tree/main/airflow-aws-modernization)  
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/airflow-aws-modernization)  
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
@@ -27,7 +27,7 @@ This project improves maintainability and scalability of previously manual and e
 ---
 
 ### ⚡ Real-Time Marketing Pipeline  
-[🔗 View Project](https://github.com/bashoori/Data-Engineering-Portfolio/tree/main/real-time-marketing-pipeline)  
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/real-time-marketing-pipeline)  
 ![PySpark](https://img.shields.io/badge/PySpark-E34F26?style=flat&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-E0214E?style=flat&logo=databricks&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
@@ -39,7 +39,7 @@ Built to simulate real-time ingestion of ad data, this pipeline automates schedu
 ---
 
 ### ☁️ Cloud ETL Modernization  
-[🔗 View Project](https://github.com/bashoori/Data-Engineering-Portfolio/tree/main/cloud-etl-modernization-airflow-aws)  
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/cloud-etl-modernization-airflow-aws)  
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Redshift](https://img.shields.io/badge/AWS_Redshift-4053D6?style=flat&logo=amazon-redshift&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)  
@@ -51,7 +51,7 @@ Implements data quality checks and logging to CloudWatch for better observabilit
 ---
 
 ### 🏥 FHIR Healthcare Pipeline  
-[🔗 View Project](https://github.com/bashoori/Data-Engineering-Portfolio/tree/main/healthcare-FHIR-data-pipeline)  
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/healthcare-FHIR-data-pipeline)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FHIR](https://img.shields.io/badge/FHIR-DF3E51?style=flat&logo=fhir&logoColor=white)  
 Parsed synthetic FHIR-compliant patient data into structured tables using Python.  
@@ -62,7 +62,7 @@ This project mimics real-world healthcare data ingestion, processing FHIR JSON i
 ---
 
 ### 🔍 LinkedIn Scraper (Lambda)  
-[🔗 View Project](https://github.com/bashoori/Data-Engineering-Portfolio/tree/main/linkedIn-job-scraper)  
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/linkedIn-job-scraper)  
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2C8EBB?style=flat&logo=python&logoColor=white)  
 Serverless job scraper storing results in AWS S3.  
@@ -73,7 +73,7 @@ Built with Lambda, this solution automates job search scraping from LinkedIn usi
 ---
 
 ### 📈 PySpark Sales Pipeline  
-[🔗 View Project](https://github.com/bashoori/Data-Engineering-Portfolio/tree/main/pyspark-sales-pipeline)  
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
 ![PySpark](https://img.shields.io/badge/PySpark-E34F26?style=flat&logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-0F9D58?style=flat&logo=databricks&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-aws&logoColor=white)  
