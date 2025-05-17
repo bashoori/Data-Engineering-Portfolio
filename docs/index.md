@@ -22,7 +22,7 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects Highlight  
 
 ### 🛠️ Airflow AWS Modernization  
 [🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/airflow-aws-modernization)  
