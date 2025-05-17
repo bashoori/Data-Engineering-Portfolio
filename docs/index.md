@@ -12,13 +12,13 @@ Welcome! I'm a Data Engineer passionate about designing cloud-native pipelines, 
 ## 🚀 Projects
 
 ### 🛠️ Airflow AWS Modernization  
-[🔗 View Project](./airflow-aws-modernization)  
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/airflow-aws-modernization)  
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docker and AWS S3.
 
-![Diagram](https://github.com/bashoori/repo/blob/master/airflow-aws-modernization/airflow-WS-S3-Redshift.png)
+![Diagram](https://github.com/bashoori/repo/blob/master/airflow-aws-modernization/etl2.png)
 
 ---
 
@@ -29,7 +29,7 @@ Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docke
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
 Real-time campaign ETL with PySpark and Databricks, deployed via GitHub Actions.
 
-![Diagram](https://github.com/bashoori/repo/blob/master/real-time-marketing-pipeline/image1.png)
+![Diagram](https://github.com/bashoori/repo/blob/master/real-time-marketing-pipeline/image1.png))
 
 ---
 
