@@ -42,7 +42,7 @@ Built to simulate real-time ingestion of ad data, this pipeline automates schedu
 Rebuilt legacy ETL workflows on Airflow + AWS for scalable processing and monitoring.  
 Implements data quality checks and logging to CloudWatch for better observability. Redshift is used as the destination warehouse with SQL-based transformations.
 
-![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/cloud-etl-modernization/etl31.png)
+![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/cloud-etl-Modernization/etl31.png)
 
 ---
 
@@ -79,6 +79,8 @@ It uses Delta Lake for efficient storage and query performance, while PySpark au
 ![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/pyspark-sales-pipeline/etl6.png)
 
 ---
+
+I'm also an AI enthusiast, continuously exploring how machine learning and artificial intelligence can enhance automation, prediction, and decision-making in data workflows.
 
 ## 📁 About This Portfolio
 
