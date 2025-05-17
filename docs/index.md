@@ -1,5 +1,8 @@
 # 💼 Bita Ashoori | Data Engineering Portfolio
 
+## 👩‍💻 About Me
+I'm a Data Engineer based in Vancouver with over 5 years of experience across data engineering, BI, and analytics. I'm passionate about clean architecture, automation, and helping organizations turn data into meaningful decisions. I'm currently expanding my knowledge in AI and machine learning to complement my strong data pipeline and cloud engineering background.
+
 Welcome! I'm a Data Engineer with over 3 years of experience building and maintaining cloud-based data pipelines, and another 2+ years working as a Business Intelligence Developer and Data Analyst. I have experience in transforming raw data into actionable insights using Python, SQL, AWS (S3, Redshift, Lambda), and Apache Airflow.  
 
 I have a strong track record designing ETL workflows that integrate data from APIs, JSON, and relational databases—delivering scalable, automated, and reliable data solutions. My background in BI and analytics enables me to bridge the gap between technical implementation and business needs, translating complex requirements into efficient data systems within agile environments.  
@@ -89,6 +92,14 @@ Each project folder includes:
 - Working code and workflows
 - Docker or deployment steps
 - Sample output or visual diagrams when applicable
+
+---
+
+## 📌 Featured
+
+📄 [Download My Resume](./bita_ashoori_resume.pdf)  
+🚀 Currently exploring ML model deployment and real-time analytics use cases.  
+📬 Open to freelance and full-time remote opportunities.
 
 ---
 
