@@ -86,4 +86,41 @@ Built with Lambda, this solution automates job search scraping from LinkedIn usi
 ---
 
 ### 📈 PySpark Sales Pipeline  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfo
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
+![PySpark](https://img.shields.io/badge/PySpark-E34F26?style=flat&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-0F9D58?style=flat&logo=databricks&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-aws&logoColor=white)  
+Built a scalable ETL pipeline to ingest, clean, and report on high-volume sales KPIs.  
+It uses Delta Lake for efficient storage and query performance, while PySpark automates transformation logic and outputs analytics-ready datasets.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bashoori/repo/master/pyspark-sales-pipeline/etl6.png" alt="PySpark Pipeline Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
+</p>
+
+---
+
+I'm also an AI enthusiast, continuously exploring how machine learning and artificial intelligence can enhance automation, prediction, and decision-making in data workflows.
+
+## 📁 About This Portfolio
+
+Each project folder includes:
+- A `README.md` with description and structure
+- Working code and workflows
+- Docker or deployment steps
+- Sample output or visual diagrams when applicable
+
+---
+
+## 📌 Featured
+
+📄 [Download My Resume](./bita_ashoori_resume.pdf)  
+🚀 Currently exploring ML model deployment and real-time analytics use cases.  
+📬 Open to freelance and full-time remote opportunities.
+
+---
+
+## 📫 Contact Me
+
+📍 Vancouver, Canada  
+🔗 [LinkedIn](https://linkedin.com/in/bashoori)  
+💻 [GitHub](https://github.com/bashoori)
