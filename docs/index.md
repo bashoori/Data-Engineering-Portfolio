@@ -45,13 +45,12 @@ Rebuilt legacy ETL workflows on Airflow + AWS for scalable processing and monito
 ---
 
 ### 🏥 FHIR Healthcare Pipeline  
-[🔗 View Project](./healthcare-FHIR-data-pipeline)  
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/healthcare-FHIR-data-pipeline)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FHIR](https://img.shields.io/badge/FHIR-DF3E51?style=flat&logo=fhir&logoColor=white)  
 Parsed synthetic FHIR-compliant patient data into structured tables using Python.
 
-![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/Cloud%20ETL%20Modernization/etl3.png)
-https://github.com/bashoori/repo/blob/master/healthcare-FHIR-data-pipeline/etl4.png
+![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/healthcare-FHIR-data-pipeline/etl4.png)
 
 ---
 
