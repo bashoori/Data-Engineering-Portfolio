@@ -1,4 +1,7 @@
-<img src="https://avatars.githubusercontent.com/u/72375349?v=4" alt="Bita Ashoori" width="120" style="border-radius: 50px; margin-bottom: 10px;" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/72375349?v=4" alt="Bita Ashoori" width="140" style="border-radius: 50%; margin-bottom: 10px;" />
+</p>
+
 # 💼 Bita Ashoori | Data Engineering Portfolio
 
 ## 👩‍💻 About Me
@@ -22,7 +25,9 @@ I'm passionate about solving large-scale data problems through clean architectur
 Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docker and AWS S3.  
 This project improves maintainability and scalability of previously manual and error-prone batch processes. It leverages Docker containers to simulate production workflows in a local dev environment.
 
-![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/airflow-aws-modernization/etl2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bashoori/repo/master/airflow-aws-modernization/etl2.png" alt="Airflow AWS Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
+</p>
 
 ---
 
@@ -34,7 +39,9 @@ This project improves maintainability and scalability of previously manual and e
 Real-time campaign ETL with PySpark and Databricks, deployed via GitHub Actions.  
 Built to simulate real-time ingestion of ad data, this pipeline automates scheduling and deployment via CI/CD, ensuring quick feedback loops and error handling.
 
-![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/real-time-marketing-pipeline/image1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bashoori/repo/master/real-time-marketing-pipeline/image1.png" alt="Real-Time Pipeline Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
+</p>
 
 ---
 
@@ -46,7 +53,9 @@ Built to simulate real-time ingestion of ad data, this pipeline automates schedu
 Rebuilt legacy ETL workflows on Airflow + AWS for scalable processing and monitoring.  
 Implements data quality checks and logging to CloudWatch for better observability. Redshift is used as the destination warehouse with SQL-based transformations.
 
-![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/cloud-etl-Modernization/etl31.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bashoori/repo/master/cloud-etl-Modernization/etl31.png" alt="Cloud ETL Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
+</p>
 
 ---
 
@@ -57,7 +66,9 @@ Implements data quality checks and logging to CloudWatch for better observabilit
 Parsed synthetic FHIR-compliant patient data into structured tables using Python.  
 This project mimics real-world healthcare data ingestion, processing FHIR JSON into relational models to support downstream analysis and dashboarding.
 
-![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/healthcare-FHIR-data-pipeline/etl4.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bashoori/repo/master/healthcare-FHIR-data-pipeline/etl4.png" alt="FHIR Pipeline Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
+</p>
 
 ---
 
@@ -68,44 +79,11 @@ This project mimics real-world healthcare data ingestion, processing FHIR JSON i
 Serverless job scraper storing results in AWS S3.  
 Built with Lambda, this solution automates job search scraping from LinkedIn using headless requests and parses results to structured CSV for storage and downstream use.
 
-![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/linkedIn-job-scraper/etl5.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bashoori/repo/master/linkedIn-job-scraper/etl5.png" alt="LinkedIn Scraper Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
+</p>
 
 ---
 
 ### 📈 PySpark Sales Pipeline  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
-![PySpark](https://img.shields.io/badge/PySpark-E34F26?style=flat&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-0F9D58?style=flat&logo=databricks&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-aws&logoColor=white)  
-Built a scalable ETL pipeline to ingest, clean, and report on high-volume sales KPIs.  
-It uses Delta Lake for efficient storage and query performance, while PySpark automates transformation logic and outputs analytics-ready datasets.
-
-![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/pyspark-sales-pipeline/etl6.png)
-
----
-
-I'm also an AI enthusiast, continuously exploring how machine learning and artificial intelligence can enhance automation, prediction, and decision-making in data workflows.
-
-## 📁 About This Portfolio
-
-Each project folder includes:
-- A `README.md` with description and structure
-- Working code and workflows
-- Docker or deployment steps
-- Sample output or visual diagrams when applicable
-
----
-
-## 📌 Featured
-
-📄 [Download My Resume](./bita_ashoori_resume.pdf)  
-🚀 Currently exploring ML model deployment and real-time analytics use cases.  
-📬 Open to freelance and full-time remote opportunities.
-
----
-
-## 📫 Contact Me
-
-📍 Vancouver, Canada  
-🔗 [LinkedIn](https://linkedin.com/in/bashoori)  
-💻 [GitHub](https://github.com/bashoori)
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfo
