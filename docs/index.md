@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/72375349?v=4" width="140" />
-</p>
+
+![Bita Ashoori](https://avatars.githubusercontent.com/u/72375349?v=4)
 
 # 💼 Bita Ashoori | Data Engineering Portfolio
 
