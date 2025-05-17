@@ -55,10 +55,12 @@ Parsed synthetic FHIR-compliant patient data into structured tables using Python
 ---
 
 ### 🔍 LinkedIn Scraper (Lambda)  
-[🔗 View Project](./AWS-lambda-linkedIn-scraper)  
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/linkedIn-job-scraper)  
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2C8EBB?style=flat&logo=python&logoColor=white)  
 Serverless job scraper storing results in AWS S3.
+
+![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/linkedIn-job-scraper/etl5.png)
 
 ---
 
