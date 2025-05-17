@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/72375349?v=4" alt="Bita Ashoori" width="120" style="border-radius: 50px; margin-bottom: 10px;" />
 # 💼 Bita Ashoori | Data Engineering Portfolio
 
 ## 👩‍💻 About Me
