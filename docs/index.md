@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Bita Ashoori | Data Engineering Portfolio
 ---
 
