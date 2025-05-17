@@ -40,7 +40,6 @@ Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docke
 ---
 
 ### ⚡ Real-Time Marketing Pipeline  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/real-time-marketing-pipeline)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/real-time-marketing-pipeline)  
 🧰 **Stack**: PySpark, Databricks, GitHub Actions, AWS S3  
 🧪 **Tested On**: Databricks Community Edition, GitHub CI/CD  
@@ -55,7 +54,6 @@ Simulates real-time ingestion of campaign data, transforming and storing insight
 ---
 
 ### ☁️ Cloud ETL Modernization  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/cloud-etl-modernization-airflow-aws)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/cloud-etl-modernization-airflow-aws)  
 🧰 **Stack**: Apache Airflow, AWS Redshift, CloudWatch  
 🧪 **Tested On**: AWS Free Tier, Docker  
@@ -70,7 +68,6 @@ Built a scalable and maintainable ETL pipeline for structured data movement from
 ---
 
 ### 🏥 FHIR Healthcare Pipeline  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/healthcare-FHIR-data-pipeline)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/healthcare-FHIR-data-pipeline)  
 🧰 **Stack**: Python, Pandas, Synthea, SQLite, Streamlit  
 🧪 **Tested On**: Local + Streamlit + BigQuery-compatible  
@@ -85,7 +82,6 @@ Processes synthetic healthcare records in FHIR JSON format and converts them int
 ---
 
 ### 🔍 LinkedIn Scraper (Lambda)  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/linkedIn-job-scraper)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/linkedIn-job-scraper)  
 🧰 **Stack**: AWS Lambda, EventBridge, BeautifulSoup, S3, CloudWatch  
 🧪 **Tested On**: AWS Free Tier  
@@ -100,7 +96,6 @@ Automates job scraping from LinkedIn using serverless AWS Lambda and stores stru
 ---
 
 ### 📈 PySpark Sales Pipeline  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
 🧰 **Stack**: PySpark, Delta Lake, AWS S3  
 🧪 **Tested On**: Local Databricks + S3  
