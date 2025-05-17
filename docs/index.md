@@ -65,11 +65,13 @@ Serverless job scraper storing results in AWS S3.
 ---
 
 ### 📈 PySpark Sales Pipeline  
-[🔗 View Project](./pyspark-sales-pipeline)  
+[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
 ![PySpark](https://img.shields.io/badge/PySpark-E34F26?style=flat&logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-0F9D58?style=flat&logo=databricks&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-aws&logoColor=white)  
 Built a scalable ETL pipeline to ingest, clean, and report on high-volume sales KPIs.
+
+![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/pyspark-sales-pipeline/etl6.png)
 
 ---
 
