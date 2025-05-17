@@ -40,7 +40,7 @@ Real-time campaign ETL with PySpark and Databricks, deployed via GitHub Actions.
 ![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)  
 Rebuilt legacy ETL workflows on Airflow + AWS for scalable processing and monitoring.
 
-![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/Cloud%20ETL%20Modernization/etl3.png)
+![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/Cloud%20ETL%20Modernization/etl31.png)
 
 ---
 
