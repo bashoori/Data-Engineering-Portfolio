@@ -20,8 +20,8 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 ## 📌 Featured
 
-📄 [Download My Resume](https://github.com/bashoori/repo/blob/master/pp/bashoori.github.io-resume.pdf)  
-📬 Open to freelance and full-time remote opportunities
+📄 [Download My Resume](https://github.com/bashoori/repo/blob/master/pp/BitaAshoori-DataEngineer-resume.pdf)  
+📬 Open to new opportunities
 
 ---
 
