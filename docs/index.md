@@ -15,7 +15,7 @@ I’m a Data Engineer based in Vancouver with over 5 years of experience across 
 
 I have 3+ years of experience building and maintaining cloud-based pipelines and 2+ years as a BI/ETL Developer. I’m skilled in Python, SQL, Apache Airflow, AWS (S3, Lambda, Redshift), and modern orchestration techniques.
 
-## 📫 Contact Me 
+## Contact Me 
 
 💻 Explore my work on [GitHub](https://github.com/bashoori)  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bitaashoori)  
