@@ -17,7 +17,7 @@ Welcome! I'm a Data Engineer passionate about designing cloud-native pipelines, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docker and AWS S3.
 
-![Diagram](![Diagram](https://raw.githubusercontent.com/bashoori/data-engineering-portfolio/main/airflow-aws-modernization/etl2.png))
+![Diagram](https://raw.githubusercontent.com/bashoori/data-engineering-portfolio/main/airflow-aws-modernization/etl2.png)
 
 ---
 
@@ -28,7 +28,7 @@ Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docke
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
 Real-time campaign ETL with PySpark and Databricks, deployed via GitHub Actions.
 
-![Diagram](![Diagram](https://raw.githubusercontent.com/bashoori/data-engineering-portfolio/main/real-time-marketing-pipeline/image1.png))
+![Diagram](https://raw.githubusercontent.com/bashoori/data-engineering-portfolio/main/real-time-marketing-pipeline/image1.png)
 
 ---
 
