@@ -1,6 +1,10 @@
 # 💼 Bita Ashoori | Data Engineering Portfolio
 
-Welcome! I'm a Data Engineer passionate about designing cloud-native pipelines, automating data flows, and enabling organizations to derive value from their data.
+Welcome! I'm a Data Engineer with over 3 years of experience building and maintaining cloud-based data pipelines, and another 3 years working as a Business Intelligence Developer and Data Analyst. I specialize in transforming raw data into actionable insights using Python, SQL, AWS (S3, Redshift, Lambda), and Apache Airflow.  
+
+I have a strong track record designing ETL workflows that integrate data from APIs, JSON, and relational databases—delivering scalable, automated, and reliable data solutions. My background in BI and analytics enables me to bridge the gap between technical implementation and business needs, translating complex requirements into efficient data systems within agile environments.  
+
+I'm passionate about solving large-scale data problems through clean architecture, real-time insights, and automation—and enabling organizations to extract true value from their data.
 
 ---
 
