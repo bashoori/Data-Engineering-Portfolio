@@ -1,5 +1,7 @@
 
-![Bita Ashoori](https://avatars.githubusercontent.com/u/72375349?v=4)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/72375349?v=4" width="140" alt="Bita Ashoori profile picture" />
+</p>
 
 # 💼 Bita Ashoori | Data Engineering Portfolio
 
