@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-## 👩‍💻 About Me
+## About Me
 
 I’m a Data Engineer based in Vancouver with over 5 years of experience across data engineering, business intelligence, and analytics. I specialize in building clean, cloud-native data pipelines and automating workflows that help organizations turn raw data into smart decisions. My current focus includes applying AI/ML principles to strengthen my cloud and analytics background.
 
@@ -22,7 +22,7 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 ---
 
-## 🚀 Project Highlights  
+## Project Highlights  
 
 ### 🛠️ Airflow AWS Modernization  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/airflow-aws-modernization)  
