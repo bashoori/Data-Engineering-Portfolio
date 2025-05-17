@@ -16,20 +16,6 @@ I’m a Data Engineer based in Vancouver with over 5 years of experience across 
 I have 3+ years of experience building and maintaining cloud-based pipelines and 2+ years as a BI/ETL Developer. I’m skilled in Python, SQL, Apache Airflow, AWS (S3, Lambda, Redshift), and modern orchestration techniques.
 
 👉 [Visit my GitHub Profile](https://github.com/bashoori)
----
-
-## 📌 Featured
-
-📄 [Download My Resume](https://github.com/bashoori/repo/blob/master/pp/BitaAshoori-DataEngineer-resume.pdf)  
-📬 Open to new opportunities
-
----
-
-## 📫 Contact Me
-
-📍 Vancouver, Canada  
-🔗 [LinkedIn](https://linkedin.com/in/bashoori)  
-💻 [GitHub](https://github.com/bashoori)
 
 ---
 
@@ -122,3 +108,18 @@ A production-ready PySpark ETL that ingests and transforms high-volume sales dat
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/pyspark-sales-pipeline/etl6.png" alt="PySpark Pipeline Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
 </p>
+
+---
+
+## 📌 Featured
+
+📄 [Download My Resume](https://github.com/bashoori/repo/blob/master/pp/BitaAshoori-DataEngineer-resume.pdf)  
+📬 Open to new opportunities
+
+---
+
+## 📫 Contact Me
+
+📍 Vancouver, Canada  
+🔗 [LinkedIn](https://linkedin.com/in/bashoori)  
+💻 [GitHub](https://github.com/bashoori)
