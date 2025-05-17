@@ -1,7 +1,3 @@
----
-title: Bita Ashoori | Data Engineering Portfolio
----
-
 # 💼 Bita Ashoori | Data Engineering Portfolio
 
 Welcome! I'm a Data Engineer passionate about designing cloud-native pipelines, automating data flows, and enabling organizations to derive value from their data.
