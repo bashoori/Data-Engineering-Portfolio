@@ -17,7 +17,7 @@ I'm passionate about solving large-scale data problems through clean architectur
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docker and AWS S3.
 
-![Diagram](https://raw.githubusercontent.com/bashoori/data-engineering-portfolio/main/airflow-aws-modernization/etl2.png)
+![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/airflow-aws-modernization/etl2.png)
 
 ---
 
@@ -28,7 +28,8 @@ Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docke
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
 Real-time campaign ETL with PySpark and Databricks, deployed via GitHub Actions.
 
-![Diagram](https://raw.githubusercontent.com/bashoori/data-engineering-portfolio/main/real-time-marketing-pipeline/image1.png)
+![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/real-time-marketing-pipeline/image1.png)
+
 
 ---
 
@@ -48,6 +49,9 @@ Rebuilt legacy ETL workflows on Airflow + AWS for scalable processing and monito
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FHIR](https://img.shields.io/badge/FHIR-DF3E51?style=flat&logo=fhir&logoColor=white)  
 Parsed synthetic FHIR-compliant patient data into structured tables using Python.
+
+![Diagram](https://raw.githubusercontent.com/bashoori/repo/master/Cloud%20ETL%20Modernization/etl3.png)
+https://github.com/bashoori/repo/blob/master/healthcare-FHIR-data-pipeline/etl4.png
 
 ---
 
