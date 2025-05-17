@@ -1,5 +1,16 @@
 # 💼 Bita Ashoori | Data Engineering Portfolio
 
+<table width="100%">
+  <tr>
+    <td>
+      <h1>💼 Bita Ashoori | Data Engineering Portfolio</h1>
+    </td>
+    <td align="right">
+      <img src="https://avatars.githubusercontent.com/u/72375349?v=4" width="100" alt="Bita Ashoori" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/pp/IMG_9043.JPG" alt="Bita Ashoori Profile" width="140" style="border-radius: 50%;" />
 </p>
@@ -19,7 +30,7 @@ I’m deeply committed to solving large-scale data problems through clean archit
 ## 📌 Featured
 
 📄 [Download My Resume](./bita_ashoori_resume.pdf)  
-🚀 Currently exploring ML model deployment and real-time analytics use cases  
+🚀 always eager to learn, grow, and sharpen my skills through hands-on projects
 📬 Open to freelance and full-time remote opportunities
 
 ---
