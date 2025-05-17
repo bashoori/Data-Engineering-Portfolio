@@ -17,7 +17,9 @@ A curated collection of end-to-end data engineering projects showcasing skills i
 
 | Project Name | Description | Tools | Highlights |
 | ------------ | ----------- | ------ | ---------- |
-| [cloud-etl-modernization-airflow-aws](https://github.com/bashoori/cloud-etl-modernization-airflow-aws) | End-to-end Airflow-based ETL pipeline project with mock API data ingestion, transformation, and orchestration on Docker. | Airflow, Python, Docker, Pandas, SQLite, Mockaroo | Auto-ingests ad data, transforms to star schema, runs in dev container with webserver auto-started. |
+| [airflow-aws-modernization](./airflow-aws-modernization) | Migrates legacy Windows Task Scheduler jobs to modular Airflow DAGs using Docker and AWS. | Airflow, Docker, Python, AWS S3, Redshift | Cloud-native orchestration of backup tasks with S3 integration. |
+| [real-time-marketing-pipeline](./real-time-marketing-pipeline) | Real-time marketing campaign pipeline using PySpark and Databricks with CI/CD automation. | PySpark, Databricks, AWS S3, GitHub Actions | Modular Spark pipeline automated via GitHub Actions. |
+| [cloud-etl-modernization-airflow-aws](./cloud-etl-modernization-airflow-aws) | Cloud ETL modernization project using Airflow and Redshift with clean, model-ready outputs. | Airflow, Python, AWS Redshift, S3, CloudWatch | Scalable ETL orchestration producing analytics-ready datasets. |
 | [AWS-lambda-linkedin-scraper](./AWS-lambda-linkedin-scraper) | Serverless LinkedIn scraper using AWS Lambda + Python. | AWS Lambda, Python, BeautifulSoup, S3 | Scalable, cost-effective scraping using headless automation. |
 | [customer-insights-pipeline](./customer-insights-pipeline) | Customer analytics ETL using Pandas and SQL. | Python, Pandas, SQLite/PostgreSQL, AWS S3 | Unifies multi-source data into star-schema-ready analytics. |
 | [ebay-product-tracker](./ebay-product-tracker) | Web scraper tracking product prices and availability over time. | Python, eBay API, SQLite, Pandas | Scheduled collection for historical trend analysis. |
