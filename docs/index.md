@@ -17,6 +17,8 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 👉 [Visit my GitHub Profile](https://github.com/bashoori)
 
+👉 [Visit my LinkedIn Profile](https://www.linkedin.com/in/bitaashoori)
+
 ---
 
 ## 🚀 Projects
@@ -121,5 +123,5 @@ A production-ready PySpark ETL that ingests and transforms high-volume sales dat
 ## 📫 Contact Me
 
 📍 Vancouver, Canada  
-🔗 [LinkedIn](https://linkedin.com/in/bashoori)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bitaashoori/)  
 💻 [GitHub](https://github.com/bashoori)
