@@ -2,7 +2,7 @@
 # 💼 Bita Ashoori | Data Engineering Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bashoori/repo/master/assets/bita-profile-rounded.png" width="140" alt="Bita Ashoori rounded profile" />
+  <img src="https://raw.githubusercontent.com/bashoori/repo/master/pp/IMG_9043.JPG" alt="Bita Ashoori Profile" width="140" style="border-radius: 50%;" />
 </p>
 
 ## 👩‍💻 About Me
