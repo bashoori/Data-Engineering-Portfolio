@@ -11,16 +11,17 @@
 
 ## 👩‍💻 About Me
 
-I’m a Data Engineer based in Vancouver with over 5 years of experience across data engineering, business intelligence, and analytics. I specialize in building clean, cloud-native data pipelines and automating workflows that help organizations turn raw data into smart decisions. My current focus includes applying AI/ML principles to strengthen my cloud and analytics background.
+Hi! I’m a Data Engineer based in Vancouver with over **5 years of experience** across data engineering, business intelligence, and analytics. I build clean, cloud-native pipelines that transform raw data into powerful insights. My toolset includes **Python, SQL, Apache Airflow, and AWS (S3, Lambda, Redshift)**—and I’m currently deepening my knowledge in AI/ML to stay ahead in this fast-moving space.
 
-I have 3+ years of experience building and maintaining cloud-based pipelines and 2+ years as a BI/ETL Developer. I’m skilled in Python, SQL, Apache Airflow, AWS (S3, Lambda, Redshift), and modern orchestration techniques.
+I’ve built and maintained cloud-based data pipelines for **3+ years** and worked another **2+ years in BI/ETL roles**. I’m passionate about clean architecture, automation, and building systems that enable data-driven decisions.
+
+👉 [Visit my GitHub Profile](https://github.com/bashoori)
 
 ---
 
 ## 📌 Featured
 
 📄 [Download My Resume](./bita_ashoori_resume.pdf)  
-🚀 Always learning, building, and automating with purpose  
 📬 Open to freelance and full-time remote opportunities
 
 ---
@@ -35,8 +36,9 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 ## 🚀 Projects
 
+---
+
 ### 🛠️ Airflow AWS Modernization  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/airflow-aws-modernization)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/airflow-aws-modernization)  
 🧰 **Stack**: Python, Apache Airflow, Docker, AWS S3  
 🧪 **Tested On**: Local Docker, GitHub Codespaces  
@@ -51,12 +53,11 @@ Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docke
 ---
 
 ### ⚡ Real-Time Marketing Pipeline  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/real-time-marketing-pipeline)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/real-time-marketing-pipeline)  
 🧰 **Stack**: PySpark, Databricks, GitHub Actions, AWS S3  
 🧪 **Tested On**: Databricks Community Edition, GitHub CI/CD  
 
-Simulates real-time ingestion of campaign data, transforming and storing insights using PySpark and Delta Lake.  
+Simulates real-time ingestion of campaign data using PySpark and Delta Lake, stored in AWS S3 and deployed via CI/CD.  
 ✅ **Business Impact**: Reduced reporting lag from 24 hours to 1 hour for faster insights.
 
 <p align="center">
@@ -66,13 +67,12 @@ Simulates real-time ingestion of campaign data, transforming and storing insight
 ---
 
 ### ☁️ Cloud ETL Modernization  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/cloud-etl-modernization-airflow-aws)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/cloud-etl-modernization-airflow-aws)  
 🧰 **Stack**: Apache Airflow, AWS Redshift, CloudWatch  
 🧪 **Tested On**: AWS Free Tier, Docker  
 
-Built a scalable and maintainable ETL pipeline for structured data movement from APIs to Redshift with alerting via CloudWatch.  
-✅ **Business Impact**: Improved troubleshooting speed by 30% with better logging and visibility.
+Designed a production-grade pipeline that moves and transforms API data into Redshift with alerting via CloudWatch.  
+✅ **Business Impact**: Improved troubleshooting speed by 30% with enhanced observability.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/cloud-etl-Modernization/etl31.png" alt="Cloud ETL Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
@@ -81,13 +81,12 @@ Built a scalable and maintainable ETL pipeline for structured data movement from
 ---
 
 ### 🏥 FHIR Healthcare Pipeline  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/healthcare-FHIR-data-pipeline)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/healthcare-FHIR-data-pipeline)  
 🧰 **Stack**: Python, Pandas, Synthea, SQLite, Streamlit  
 🧪 **Tested On**: Local + Streamlit + BigQuery-compatible  
 
-Processes synthetic healthcare records in FHIR JSON format and converts them into clean, queryable relational tables.  
-✅ **Business Impact**: Reduced preprocessing time by 60% and prepared the data for ML/analytics readiness.
+Parsed synthetic FHIR-compliant patient data into structured relational tables. Visualized insights using Streamlit.  
+✅ **Business Impact**: Reduced preprocessing time by 60% and prepared datasets for AI/ML readiness.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/healthcare-FHIR-data-pipeline/etl4.png" alt="FHIR Pipeline Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
@@ -96,13 +95,12 @@ Processes synthetic healthcare records in FHIR JSON format and converts them int
 ---
 
 ### 🔍 LinkedIn Scraper (Lambda)  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/linkedIn-job-scraper)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/linkedIn-job-scraper)  
 🧰 **Stack**: AWS Lambda, EventBridge, BeautifulSoup, S3, CloudWatch  
 🧪 **Tested On**: AWS Free Tier  
 
-Automates job scraping from LinkedIn using serverless AWS Lambda and stores structured output in S3.  
-✅ **Business Impact**: Streamlined job research and enabled structured outreach analysis.
+Serverless job scraper that captures LinkedIn listings daily and saves structured CSVs to S3. Logs and alerts via CloudWatch/SNS.  
+✅ **Business Impact**: Saved hours of manual search and enabled programmatic analysis of job listings.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/linkedIn-job-scraper/etl5.png" alt="LinkedIn Scraper Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
@@ -111,13 +109,12 @@ Automates job scraping from LinkedIn using serverless AWS Lambda and stores stru
 ---
 
 ### 📈 PySpark Sales Pipeline  
-[🔗 View Project](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
 📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
 🧰 **Stack**: PySpark, Delta Lake, AWS S3  
 🧪 **Tested On**: Local Databricks + S3  
 
-A production-ready PySpark ETL that ingests and transforms high-volume sales data into Delta Lake for BI.  
-✅ **Business Impact**: Improved reporting accuracy and cut transformation runtime by over 40%.
+A scalable PySpark pipeline that ingests, cleans, and transforms large-scale sales CSV data into Delta Lake for reporting.  
+✅ **Business Impact**: Increased reporting speed and cut transformation time by 40%.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/pyspark-sales-pipeline/etl6.png" alt="PySpark Pipeline Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
