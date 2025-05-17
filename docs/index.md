@@ -1,8 +1,8 @@
 
-## 💼 Bita Ashoori | Data Engineering Portfolio
+# 💼 Bita Ashoori | Data Engineering Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bashoori/repo/master/assets/bita-profile-rounded.png" width="140" alt="Bita Ashoori profile picture" />
+  <img src="https://avatars.githubusercontent.com/u/72375349?v=4" width="140" alt="Bita Ashoori profile" />
 </p>
 
 ## 👩‍💻 About Me
