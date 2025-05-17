@@ -17,6 +17,7 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 💻 Explore my work on [GitHub](https://github.com/bashoori)  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bitaashoori)
+
 📄 [Download My Resume](https://github.com/bashoori/repo/blob/master/pp/BitaAshoori-DataEngineer-resume.pdf)  
 
 ---
