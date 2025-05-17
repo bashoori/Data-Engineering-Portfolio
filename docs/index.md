@@ -17,6 +17,7 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 💻 Explore my work on [GitHub](https://github.com/bashoori)  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bitaashoori)
+📧 [bitaashoori20@gmail.com](mailto:bitaashoori20@gmail.com)
 
 📄 [Download My Resume](https://github.com/bashoori/repo/blob/master/pp/BitaAshoori-DataEngineer-resume.pdf)  
 
@@ -120,3 +121,4 @@ A production-ready PySpark ETL that ingests and transforms high-volume sales dat
 📍 Vancouver, Canada  
 🔗 [LinkedIn](https://www.linkedin.com/in/bitaashoori/)  
 💻 [GitHub](https://github.com/bashoori)
+📧 [bitaashoori20@gmail.com](mailto:bitaashoori20@gmail.com)
