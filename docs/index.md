@@ -1,5 +1,3 @@
-# 💼 Bita Ashoori | Data Engineering Portfolio
-
 <table width="100%">
   <tr>
     <td>
@@ -11,9 +9,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bashoori/repo/master/pp/IMG_9043.JPG" alt="Bita Ashoori Profile" width="140" style="border-radius: 50%;" />
-</p>
 
 ## 👩‍💻 About Me
 
