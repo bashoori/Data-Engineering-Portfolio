@@ -53,7 +53,7 @@ default_args = {
 with DAG(
     dag_id='api_ingestion_dag',
     default_args=default_args,
-    schedule='@daily',  # use `schedule` instead of deprecated `schedule_interval`
+    schedule=None,  # use `schedule` instead of deprecated `schedule_interval`
     catchup=False,
     tags=['ads', 's3', 'api', 'boto3']
 ) as dag:

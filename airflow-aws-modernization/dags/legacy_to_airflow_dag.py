@@ -69,7 +69,7 @@ with DAG(
     'legacy_to_airflow_dag',
     default_args=default_args,
     description='Migrate legacy Windows jobs to Airflow with AWS integration',
-    schedule_interval=timedelta(days=1),
+    schedule_interval=None,
     start_date=datetime(2024, 1, 1),
     catchup=False,
     tags=['aws', 'airflow', 'etl', 'portfolio']

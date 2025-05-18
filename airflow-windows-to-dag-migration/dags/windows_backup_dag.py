@@ -31,7 +31,7 @@ with DAG(
     dag_id='windows_backup_migration_dag',
     description='Migrate Windows Scheduled Task to Airflow DAG',
     default_args=default_args,
-    schedule_interval='@daily',
+    schedule_interval=None,
     catchup=False
 ) as dag:
 
