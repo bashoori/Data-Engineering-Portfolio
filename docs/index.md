@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td>
-      <h2>💼 Bita Ashoori, Data Engineering Portfolio</h2>
+      <h1 style="margin-bottom: 0;">💼 Bita Ashoori<br><span style="font-size: 0.8em; font-weight: normal;">Data Engineering Portfolio</span></h1>
     </td>
     <td align="right">
       <img src="https://raw.githubusercontent.com/bashoori/repo/master/pp/IMG_9043.JPG" width="180" alt="Bita Ashoori" style="border-radius: 50%;" />
