@@ -1,10 +1,10 @@
 <table width="100%">
   <tr>
     <td>
-      <h1>💼 Bita Ashoori | Data Engineering Portfolio</h1>
+      <h2>💼 Bita Ashoori, Data Engineering Portfolio</h2>
     </td>
     <td align="right">
-      <img src="https://raw.githubusercontent.com/bashoori/repo/master/pp/IMG_9043.JPG" width="150" alt="Bita Ashoori" style="border-radius: 50%;" />
+      <img src="https://raw.githubusercontent.com/bashoori/repo/master/pp/IMG_9043.JPG" width="180" alt="Bita Ashoori" style="border-radius: 50%;" />
     </td>
   </tr>
 </table>
