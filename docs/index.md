@@ -9,7 +9,6 @@
   </tr>
 </table>
 ---
-<hr style="margin-top: 10px; margin-bottom: 20px;">
 
 ## About Me
 
