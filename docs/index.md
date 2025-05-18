@@ -17,9 +17,7 @@
 
 ## About Me
 
-I’m a Data Engineer based in Vancouver with over 5 years of experience across data engineering, business intelligence, and analytics. I specialize in building clean, cloud-native data pipelines and automating workflows that help organizations turn raw data into smart decisions. My current focus includes applying AI/ML principles to strengthen my cloud and analytics background.
-
-I have 3+ years of experience building and maintaining cloud-based pipelines and 2+ years as a BI/ETL Developer. I’m skilled in Python, SQL, Apache Airflow, AWS (S3, Lambda, Redshift), and modern orchestration techniques.
+I’m a Data Engineer based in Vancouver with over 5 years of experience across data engineering, business intelligence, and analytics. I specialize in building clean, cloud-native data pipelines and automating workflows that help organizations turn raw data into smart decisions. I have 3+ years of experience building and maintaining cloud-based pipelines and 2+ years as a BI/ETL Developer. I’m skilled in Python, SQL, Apache Airflow, AWS (S3, Lambda, Redshift), and modern orchestration techniques.
 
 ## Contact Me 
 
