@@ -38,7 +38,7 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 🧪 **Tested On**: Local Docker, GitHub Codespaces  
 
 Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docker and AWS S3.  
-✅ **Business Impact**: Reduced manual errors by 50% and improved job monitoring and reliability.
+✅ **Business Impact**: Could reduce manual errors by up to 50% and improve job monitoring and reliability in real-world environments.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/airflow-aws-modernization/etl2.png" alt="Airflow AWS Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
@@ -52,7 +52,7 @@ Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docke
 🧪 **Tested On**: Databricks Community Edition, GitHub CI/CD  
 
 Simulates real-time ingestion of campaign data, transforming and storing insights using PySpark and Delta Lake.  
-✅ **Business Impact**: Reduced reporting lag from 24 hours to 1 hour for faster insights.
+✅ **Business Impact**: May reduce reporting lag from 24 hours to 1 hour, enabling faster marketing insights and campaign optimization.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/real-time-marketing-pipeline/image1.png" alt="Real-Time Pipeline Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
@@ -66,7 +66,7 @@ Simulates real-time ingestion of campaign data, transforming and storing insight
 🧪 **Tested On**: AWS Free Tier, Docker  
 
 Built a scalable and maintainable ETL pipeline for structured data movement from APIs to Redshift with alerting via CloudWatch.  
-✅ **Business Impact**: Improved troubleshooting speed by 30% with better logging and visibility.
+✅ **Expected Impact**: Should improve troubleshooting efficiency by ~30% with enhanced logging and monitoring practices.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/cloud-etl-Modernization/etl31.png" alt="Cloud ETL Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
@@ -80,7 +80,7 @@ Built a scalable and maintainable ETL pipeline for structured data movement from
 🧪 **Tested On**: Local + Streamlit + BigQuery-compatible  
 
 Processes synthetic healthcare records in FHIR JSON format and converts them into clean, queryable relational tables.  
-✅ **Business Impact**: Reduced preprocessing time by 60% and prepared the data for ML/analytics readiness.
+✅ **Expected Impact**: Designed to reduce preprocessing time by 60% and prepare healthcare data for analytics and ML workloads.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/healthcare-FHIR-data-pipeline/etl4.png" alt="FHIR Pipeline Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
@@ -94,7 +94,7 @@ Processes synthetic healthcare records in FHIR JSON format and converts them int
 🧪 **Tested On**: AWS Free Tier  
 
 Automates job scraping from LinkedIn using serverless AWS Lambda and stores structured output in S3.  
-✅ **Business Impact**: Streamlined job research and enabled structured outreach analysis.
+✅ **Expected Impact**: Can automate job scraping workflows and enable structured job search analysis without manual effort.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/linkedIn-job-scraper/etl5.png" alt="LinkedIn Scraper Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
@@ -108,7 +108,7 @@ Automates job scraping from LinkedIn using serverless AWS Lambda and stores stru
 🧪 **Tested On**: Local Databricks + S3  
 
 A production-ready PySpark ETL that ingests and transforms high-volume sales data into Delta Lake for BI.  
-✅ **Business Impact**: Improved reporting accuracy and cut transformation runtime by over 40%.
+✅ **Expected Impact**: Built to cut transformation runtimes by 40% and improve sales reporting accuracy through Delta Lake optimization.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bashoori/repo/master/pyspark-sales-pipeline/etl6.png" alt="PySpark Pipeline Diagram" width="700" style="border: 1px solid #ccc; border-radius: 6px;" />
