@@ -34,7 +34,6 @@ I’m a Data Engineer based in Vancouver with over 5 years of experience across 
 
 **Scenario**: Businesses needed faster feedback loops from ad campaigns to optimize performance and engagement.
 📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/airflow-aws-modernization)  
-
 **Solution**: Migrated legacy Windows Task Scheduler jobs into modular Airflow DAGs with Docker and AWS S3.  
 ✅ **Potential Impact**: Could reduce manual errors by up to 50% and improve job monitoring and reliability in real-world environments.
 
@@ -51,7 +50,6 @@ I’m a Data Engineer based in Vancouver with over 5 years of experience across 
 
 **Scenario**: Businesses needed faster feedback loops from ad campaigns to optimize performance and engagement.
 📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/real-time-marketing-pipeline)  
-
 **Solution**: Simulates real-time ingestion of campaign data, transforming and storing insights using PySpark and Delta Lake.  
 ✅ **Potential Impact**: May reduce reporting lag from 24 hours to 1 hour, enabling faster marketing insights and campaign optimization.
 
@@ -68,7 +66,6 @@ I’m a Data Engineer based in Vancouver with over 5 years of experience across 
 
 **Scenario**: Legacy workflows lacked observability, scalability, and centralized monitoring—critical for modern data teams.
 📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/cloud-etl-modernization-airflow-aws)  
-
 **Solution**: Built a scalable and maintainable ETL pipeline for structured data movement from APIs to Redshift with alerting via CloudWatch.  
 ✅ **Potential Impact**: Should improve troubleshooting efficiency by ~30% with enhanced logging and monitoring practices.
 
@@ -85,7 +82,6 @@ I’m a Data Engineer based in Vancouver with over 5 years of experience across 
 
 **Scenario**: Healthcare projects using FHIR data require a clean, structured pipeline to support downstream analytics and ML.
 📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/healthcare-FHIR-data-pipeline)  
-
 **Solution**: Processes synthetic healthcare records in FHIR JSON format and converts them into clean, queryable relational tables.  
 ✅ **Potential Impact**: Designed to reduce preprocessing time by 60% and prepare healthcare data for analytics and ML workloads.
 
@@ -102,7 +98,6 @@ I’m a Data Engineer based in Vancouver with over 5 years of experience across 
 
 **Scenario**: Manual job tracking and lead sourcing is time-consuming and unscalable.
 📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/linkedIn-job-scraper)  
-
 **Solution**: Automates job scraping from LinkedIn using serverless AWS Lambda and stores structured output in S3.  
 ✅ **Potential Impact**: Can automate job scraping workflows and enable structured job search analysis without manual effort.
 
@@ -118,8 +113,8 @@ I’m a Data Engineer based in Vancouver with over 5 years of experience across 
 
 ### 📈 PySpark Sales Pipeline  
 
-**Scenario**: Businesses need scalable ETL systems to process large sales datasets for timely business intelligence reporting.📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
-
+**Scenario**: Businesses need scalable ETL systems to process large sales datasets for timely business intelligence reporting.
+📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
 **Solution**: A production-ready PySpark ETL that ingests and transforms high-volume sales data into Delta Lake for BI.  
 ✅ **Potential Impact**: Built to cut transformation runtimes by 40% and improve sales reporting accuracy through Delta Lake optimization.
 
