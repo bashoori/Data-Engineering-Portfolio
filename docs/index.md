@@ -1,7 +1,7 @@
 
 <table width="100%" style="vertical-align: middle;">
   <tr>
-    <td style="vertical-align: middle;" width="180">
+    <td style="vertical-align: middle;" width="200">
       <img src="https://raw.githubusercontent.com/bashoori/repo/master/pp/IMG_9043.JPG"
            width="180"
            alt="Bita Ashoori"
