@@ -1,4 +1,17 @@
 <table width="100%" style="vertical-align: middle;">
+  <tr>   
+    <td align="right" style="vertical-align: middle;">
+      <img src="https://raw.githubusercontent.com/bashoori/repo/master/pp/IMG_9043.JPG" width="180" alt="Bita Ashoori" style="border-radius: 50%; margin-left: 20px;" />
+    </td>
+     <td style="vertical-align: middle;">
+      <h1 style="margin-bottom: 0;">Bita Ashoori<br>
+        <span style="font-size: 0.9em; font-weight: normal;">💼 Data Engineering Portfolio</span>
+      </h1>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" style="vertical-align: middle;">
   <tr>
     <td style="vertical-align: middle;" width="180">
       <img src="https://raw.githubusercontent.com/bashoori/repo/master/pp/IMG_9043.JPG"
