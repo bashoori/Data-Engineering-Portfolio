@@ -34,7 +34,8 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 ### 🛠️ Airflow AWS Modernization  
 
-**Scenario**: Businesses needed faster feedback loops from ad campaigns to optimize performance and engagement.📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/airflow-aws-modernization)  
+**Scenario**: Businesses needed faster feedback loops from ad campaigns to optimize performance and engagement.
+📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/airflow-aws-modernization)  
 
 🧰 **Stack**: Python, Apache Airflow, Docker, AWS S3  
 🧪 **Tested On**: Local Docker, GitHub Codespaces  
@@ -50,7 +51,8 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 ### ⚡ Real-Time Marketing Pipeline  
 
-**Scenario**: Businesses needed faster feedback loops from ad campaigns to optimize performance and engagement.📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/real-time-marketing-pipeline)  
+**Scenario**: Businesses needed faster feedback loops from ad campaigns to optimize performance and engagement.
+📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/real-time-marketing-pipeline)  
 
 🧰 **Stack**: PySpark, Databricks, GitHub Actions, AWS S3  
 🧪 **Tested On**: Databricks Community Edition, GitHub CI/CD  
@@ -66,7 +68,8 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 ### ☁️ Cloud ETL Modernization  
 
-**Scenario**: Legacy workflows lacked observability, scalability, and centralized monitoring—critical for modern data teams.📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/cloud-etl-modernization-airflow-aws)  
+**Scenario**: Legacy workflows lacked observability, scalability, and centralized monitoring—critical for modern data teams.
+📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/cloud-etl-modernization-airflow-aws)  
 
 🧰 **Stack**: Apache Airflow, AWS Redshift, CloudWatch  
 🧪 **Tested On**: AWS Free Tier, Docker  
@@ -82,7 +85,8 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 ### 🏥 FHIR Healthcare Pipeline  
 
-**Scenario**: Healthcare projects using FHIR data require a clean, structured pipeline to support downstream analytics and ML.📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/healthcare-FHIR-data-pipeline)  
+**Scenario**: Healthcare projects using FHIR data require a clean, structured pipeline to support downstream analytics and ML.
+📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/healthcare-FHIR-data-pipeline)  
 
 🧰 **Stack**: Python, Pandas, Synthea, SQLite, Streamlit  
 🧪 **Tested On**: Local + Streamlit + BigQuery-compatible  
@@ -99,7 +103,7 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 ### 🔍 LinkedIn Scraper (Lambda)  
 
 **Scenario**: Manual job tracking and lead sourcing is time-consuming and unscalable.
-📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/linkedIn-job-scraper)  
+📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/linkedIn-job-scraper)  
 🧰 **Stack**: AWS Lambda, EventBridge, BeautifulSoup, S3, CloudWatch  
 🧪 **Tested On**: AWS Free Tier  
 
@@ -114,7 +118,8 @@ I have 3+ years of experience building and maintaining cloud-based pipelines and
 
 ### 📈 PySpark Sales Pipeline  
 
-**Scenario**: Businesses need scalable ETL systems to process large sales datasets for timely business intelligence reporting.📎 [GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
+**Scenario**: Businesses need scalable ETL systems to process large sales datasets for timely business intelligence reporting.
+📎[GitHub Repo](https://github.com/bashoori/data-engineering-portfolio/tree/main/pyspark-sales-pipeline)  
 
 🧰 **Stack**: PySpark, Delta Lake, AWS S3  
 🧪 **Tested On**: Local Databricks + S3  
