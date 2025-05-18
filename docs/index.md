@@ -9,7 +9,7 @@
     </td>
     <td style="vertical-align: middle;">
       <h1 style="margin-bottom: 5px;">Bita Ashoori</h1>
-      <span style="font-size: 1.2em; font-weight: 500;">💼 Data Engineering Portfolio</span>
+      <span style="font-size: 2.2em; font-weight: 500;">💼 Data Engineering Portfolio</span>
     </td>
   </tr>
 </table>
